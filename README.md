@@ -1,4 +1,3 @@
-```html
 <h1 align="center">
   Hi 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35" />
@@ -10,39 +9,39 @@
 </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rehanasif&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadRehanAsif&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-  <img src="https://img.shields.io/github/followers/rehanasif?label=Followers&style=flat&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/github/followers/MuhammadRehanAsif?label=Followers&style=flat&color=0e75b6" alt="followers" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 BS Data Science Student at UET Lahore
-- 🤖 Interested in Artificial Intelligence, Data Science & Software Engineering
-- 💡 Currently learning Python, Machine Learning & Web Development
-- 🚀 Passionate about building future AI-based applications
-- 📚 Exploring Computer Networks, Algorithms & Software Engineering
-- 🌱 Always learning new technologies and improving my skills
+* 🎓 BS Data Science Student at UET Lahore
+* 🤖 Interested in Artificial Intelligence, Data Science & Software Engineering
+* 💡 Currently learning Python, Machine Learning & Web Development
+* 🚀 Passionate about building AI-based future technologies
+* 📚 Exploring Computer Networks, Algorithms & Software Engineering
+* 🌱 Always learning new technologies and improving my development skills
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 
-- 📧 Email: **rehanasifarmy786@gmail.com**
-- 🔗 LinkedIn: **Muhammad Rehan Asif**
+* 📧 Email: **[rehanasifarmy786@gmail.com](mailto:rehanasifarmy786@gmail.com)**
+* 🔗 LinkedIn: **Muhammad Rehan Asif**
 
 ---
 
 <h3 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="30" height="30" />
-  Connect with me:
+  Connect with me
 </h3>
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/muhammad-rehan-asif-218b7a34b/">
+<a href="https://www.linkedin.com/in/muhammad-rehan-asif-218b7a34b/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
 </a>
 
@@ -99,7 +98,7 @@
   GitHub Contribution Graph
 </h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehanasif&hide_border=true&theme=react-dark&custom_title=Rehan's+Contribution+Graph&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadRehanAsif&hide_border=true&theme=react-dark&custom_title=Rehan's+Contribution+Graph&area=true" />
 
 ---
 
@@ -110,19 +109,20 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=rehanasif&theme=github_dark&hide_border=false" height="220" />
+<img src="https://streak-stats.demolab.com/?user=MuhammadRehanAsif&theme=github_dark&hide_border=false" height="220" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rehanasif&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadRehanAsif&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="180" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanasif&layout=compact&theme=github_dark" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRehanAsif&layout=compact&theme=github_dark" height="180" />
 
 </div>
 
 ---
 
-<h3 align="center">✨ “Building intelligent solutions for the future.” ✨</h3>
-```
+<h3 align="center">
+  ✨ Building intelligent solutions for the future ✨
+</h3>
