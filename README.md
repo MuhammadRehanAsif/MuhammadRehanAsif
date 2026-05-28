@@ -19,11 +19,11 @@
 ## 👨‍💻 About Me
 
 * 🎓 BS Data Science Student at UET Lahore
-* 🤖 Interested in Artificial Intelligence, Data Science & Software Engineering
-* 💡 Currently learning Python, Machine Learning & Web Development
-* 🚀 Passionate about building AI-based future technologies
+* 🤖 Passionate about Artificial Intelligence & Data Science
+* 💡 Learning Python, Machine Learning & Full Stack Development
+* 🚀 Interested in building AI-powered future technologies
 * 📚 Exploring Computer Networks, Algorithms & Software Engineering
-* 🌱 Always learning new technologies and improving my development skills
+* 🌱 Always improving my development and problem-solving skills
 
 ---
 
@@ -60,34 +60,76 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python" height="40" title="Python" />
-<img width="12" />
+<img src="https://skillicons.dev/icons?i=python" height="45" title="Python" />
+<img width="10" />
 
-<img src="https://skillicons.dev/icons?i=c" height="40" title="C" />
-<img width="12" />
+<img src="https://skillicons.dev/icons?i=c" height="45" title="C" />
+<img width="10" />
 
-<img src="https://skillicons.dev/icons?i=cpp" height="40" title="C++" />
-<img width="12" />
+<img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++" />
+<img width="10" />
 
-<img src="https://skillicons.dev/icons?i=html" height="40" title="HTML" />
-<img width="12" />
+<img src="https://skillicons.dev/icons?i=java" height="45" title="Java" />
+<img width="10" />
 
-<img src="https://skillicons.dev/icons?i=css" height="40" title="CSS" />
-<img width="12" />
+<img src="https://skillicons.dev/icons?i=html" height="45" title="HTML5" />
+<img width="10" />
 
-<img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" />
-<img width="12" />
+<img src="https://skillicons.dev/icons?i=css" height="45" title="CSS3" />
+<img width="10" />
 
-<img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL" />
-<img width="12" />
+<img src="https://skillicons.dev/icons?i=js" height="45" title="JavaScript" />
+<img width="10" />
 
-<img src="https://skillicons.dev/icons?i=firebase" height="40" title="Firebase" />
-<img width="12" />
+<img src="https://skillicons.dev/icons?i=react" height="45" title="React" />
+<img width="10" />
 
-<img src="https://skillicons.dev/icons?i=figma" height="40" title="Figma" />
-<img width="12" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="45" title="Node.js" />
+<img width="10" />
 
-<img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" />
+<img src="https://skillicons.dev/icons?i=express" height="45" title="Express.js" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=tailwind" height="45" title="Tailwind CSS" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=bootstrap" height="45" title="Bootstrap" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=mysql" height="45" title="MySQL" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="45" title="MongoDB" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=firebase" height="45" title="Firebase" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=git" height="45" title="Git" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=github" height="45" title="GitHub" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=vscode" height="45" title="VS Code" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=visualstudio" height="45" title="Visual Studio" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=figma" height="45" title="Figma" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=linux" height="45" title="Linux" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=pycharm" height="45" title="PyCharm" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=tensorflow" height="45" title="TensorFlow" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=opencv" height="45" title="OpenCV" />
 
 </div>
 
